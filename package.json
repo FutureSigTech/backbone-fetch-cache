@@ -1,11 +1,11 @@
 {
-  "name": "innoto-backbone-fetch-cache",
+  "name": "boldest-backbone-fetch-cache",
   "version": "1.3.0",
   "description": "Caches calls to Backbone.[Model | Collection].fetch",
   "main": "backbone.fetch-cache.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Innoto/backbone-fetch-cache.git"
+    "url": "https://github.com/FutureSigTech/backbone-fetch-cache.git"
   },
   "author": "Madglory",
   "license": "MIT",
